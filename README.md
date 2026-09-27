@@ -41,9 +41,9 @@ Feature importance shows what the model relied on for prediction, but it does no
 
 ## Project Files
 
-* `analysis.ipynb` — data analysis, model training and evaluation
-* `data/ai4i2020.csv` — dataset
-* `model.joblib` — saved Random Forest model
+* `analysis.ipynb` : data analysis, model training and evaluation
+* `data/ai4i2020.csv` : dataset
+* `model.joblib` : saved Random Forest model
 
 ## Run the Project
 
